@@ -1,0 +1,59 @@
+body {
+  width: 100%;
+  max-width: 1024px;
+  margin: auto;
+  background-color: #FFFFFF;
+  font-size: 75%;
+}
+
+header, main, footer {
+  background_color: #0000FF
+  font-size: 1em;
+}
+
+header {
+  margin: 2em;
+  align: center;
+  font-size: 1.2em;
+}
+
+header h1, h4 {
+  text-align: center;
+}
+
+header h2 {
+  text-align: left;
+}
+
+nav ul {
+  text-align: center;
+  margin: 0em;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 1em;
+  margin: 2em
+}
+
+p {
+  color: #000000
+  padding: 1.25em;
+  font-size: 1.4em;
+  font-family: Garamond;
+  margin: 2em;
+}
+
+footer {
+  display: inline-block;
+  text-align: center;
+}
+
+.art_head {
+  text-align: left;
+}
+
+#footer {
+  font-family: cursive;
+  font-size: .8em;
+}
